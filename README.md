@@ -1,6 +1,10 @@
 # Data Bootcamp Milestone Project
 In this project, my group and I set out to complete a project showcasing our skills in Python programming, calling and utilizing APIs, creating and merging dataframes using Pandas, and creating visualizations using Matplotlib and the Pandas library.  Additionally, we performed statistical analyses using scatterplots and Pearson coefficient tests to determine whether our results were statistically significant, and whether they supported or rejected our hypothesis/null hypothesis.  
 
+Our repositiory contains Jupyter Notebooks illustrating our API calls and subsequent conversions to CSV files and data aggregation, as well as using this aggregated data to create a variety of visualizations, including heatmaps, scatterplots, and bar graphs (exported as PNG files for use in presentations), as well as a slideshow from our class presentation.
+
+Below you will find some of our data conclusions and suggestions for further study.  
+
 # St. Louis Food Desert Data Conclusions
 Our team set out to investigate whether there existed any correlation between low numbers of grocery establishments and median income and obesity rates in St. Louis City.  Using data colelcted from Google Places API, the US Census API, and a CSV containing obesity rate data gleaned from a study conducted by St. Louis City, we sought to find out if our suspicions concerning food access, obesity, and income could be illustrated with any statistical significance based on the data we pursued.  Our hypotheses were as follows:
 
